@@ -1,7 +1,7 @@
 # Gs_ai
 André Narducci Calegari Rm94988
 Gabriel Centin Silva rm:550452
-
+link do youtube https://youtu.be/OBdJEWFfiz0
 1. Descrição do Problema
 Com o aumento da adoção de veículos elétricos (VEs), surge a necessidade de uma gestão eficiente das estações de carregamento.
 Este projeto tem como objetivo utilizar técnicas de Machine Learning para prever a demanda de carregamento em diferentes regiões.
